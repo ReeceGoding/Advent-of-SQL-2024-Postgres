@@ -9,7 +9,7 @@ FROM
     FROM
         public.letters_a
 
-    UNION
+    UNION ALL
 
     SELECT
         2 table_index
